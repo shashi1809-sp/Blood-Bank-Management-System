@@ -1,0 +1,1 @@
+document.addEventListener("DOMContentLoaded",()=>{const form=document.getElementById("loginForm");if(!form)return;form.addEventListener("submit",e=>{e.preventDefault();document.getElementById("loginMessage").textContent="Authentication is not configured in this academic demo. Do not use real credentials.";})});

@@ -1,0 +1,1 @@
+Photo assets could not be downloaded in this environment. Add real photographs (not SVG shapes) to public/images using these filenames: hero-donation.jpg, donor-care.jpg, blood-stock.jpg, healthcare-team.jpg, volunteer.jpg. The UI references these files.
